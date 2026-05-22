@@ -1,4 +1,4 @@
-# 🤖 HR Buddy: Agente de IA Híbrido (RAG + SQL) para Recursos Humanos
+# 🤖 HR: Agente de IA Híbrido (RAG + SQL) para Recursos Humanos
 
 Este repositorio contiene la arquitectura, el flujo de orquestación y los scripts de datos para **HR Buddy**, un asistente virtual avanzado de Recursos Humanos para la empresa ficticia *ChocolaTech*. El proyecto implementa un enfoque de IA híbrido que combina la potencia de la generación asistida por recuperación (RAG) para datos no estructurados con consultas dinámicas a bases de datos relacionales (SQL) para datos estructurados.
 
