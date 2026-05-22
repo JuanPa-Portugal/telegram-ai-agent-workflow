@@ -73,7 +73,7 @@ Llevar el agente al mundo real requirió robustez en la comunicación y el contr
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/telegram-ai-agent-workflow.git](https://github.com/tu-usuario/telegram-ai-agent-workflow.git)
+   git clone https://github.com/JuanPa-Portugal/telegram-ai-agent-workflow.git
    ```
 2. **Base de Datos:** Importa los archivos de la carpeta `sql/` en tu instancia de MySQL (en Railway o local) para desplegar la tabla con los datos semilla.
 3. **Importar en n8n:** Crea un flujo nuevo en tu instancia de n8n e importa el archivo `n8n/telegram_ai_agent.json`.
